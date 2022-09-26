@@ -1,0 +1,14 @@
+Our app uses a databse that was created using mySQL, the connectivity the the database require a username and a password,
+the one that were used are Username: root and Password: pokemon12, the sql files have been provided with the code files.
+
+To start the app run the NewJFrame java file and enter one of the following username and password:
+Username:     Password:
+-karim        pokemon
+-jamil        a140312h
+-atef         fransa
+
+or enter a new username and password of your own and press the register button then the login button
+
+Note: when creating a new file, spereate the name of members, admins and spectators with a spaces like so: karim jamil atef 
+
+Thank you 
